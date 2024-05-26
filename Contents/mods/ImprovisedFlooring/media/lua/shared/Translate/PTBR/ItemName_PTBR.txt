@@ -1,0 +1,10 @@
+ItemName_PTBR = {
+    /* Version 2.0 Magazines */
+    ItemName_ImprovisedFlooring.IFMagazineTiles = "Construshow: Catálogo de Pisos",
+    ItemName_ImprovisedFlooring.IFMagazineFranchise = "Especificações de Pisos de Franquia",
+    ItemName_ImprovisedFlooring.IFMagazineGarden = "Designs de Jardins e Casas",
+    ItemName_ImprovisedFlooring.IFMagazineIndustrial = "Pavimentos Industriais",
+    ItemName_ImprovisedFlooring.IFMagazineUrban = "Rodovias e Ruas Urbanas",
+    ItemName_ImprovisedFlooring.IFMagazineEasterEgg = "Uma Viagem nos Caminhos da Memória",
+
+}
